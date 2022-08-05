@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(18, 125, 190);
+    color: #ffffff;
+}
+
+button {
+    margin: 10px;
+    color: #000000;
+}
+.center {
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+}
+
